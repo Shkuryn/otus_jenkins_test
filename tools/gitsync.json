@@ -1,4 +1,5 @@
 {
+  "$schema": "https://github.com/Shkuryn/otus_jenkins_test/blob/storage_1c/resourses/schema.json",
   "agent": "slave",
   "v8Version": "8.3.25.1394",
   "defaultInfobase": {
