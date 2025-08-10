@@ -31,18 +31,6 @@
       "plugins-config": {
         "URL": "https://github.com/Kyrales/otus_JenkinsExample.git"
       }
-    },
-    {
-        "name": "YAXUNIT",
-        "disabled": true,
-        "extention": "YAXUNIT",
-        "path": "C:/Storage1C/storage_yaxunit",
-        "dir": "./src/cfe/yaxunit",
-        "temp-dir": "",
-        "v8version": "8.3.25.1394",
-        "plugins-config": {
-          "URL": "https://github.com/Kyrales/otus_JenkinsExample.git"
-        }
-     }
+    }
   ]
 }
