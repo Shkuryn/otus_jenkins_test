@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/Kyrales/jenkins-lib/devkyr/resources/schema.json",
-  "v8version": "8.3.25.1546",
+  "v8version": "8.3.25.1394",
   "edtVersion": "",
   "srcDir": "src/cf",
   "sourceFormat": "designer",
@@ -13,12 +13,12 @@
   },
   "stages": {
     "initSteps": true,
-    "sonarqube": true,
+    "sonarqube": false,
     "bdd": true,
     "syntaxCheck": true,
     "edtValidate": false,
     "smoke": false,
-    "yaxunit": true,
+    "yaxunit": false,
     "email": true,
     "telegram": false
   },
