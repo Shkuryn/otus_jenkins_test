@@ -31,8 +31,6 @@
       "plugins-config": {
         "URL": "https://github.com/Kyrales/otus_JenkinsExample.git"
       }
-<<<<<<< HEAD
-=======
     },
     {
       "name": "YAXUNIT",
@@ -42,9 +40,11 @@
       "temp-dir": "",
       "v8version": "8.3.25.1394",
       "plugins-config": {
+        "storage": "C:/Storage1C/storage_yaxunit",
+        "storage-user": "DeployGit",
+        "storage-pwd": "1234",
         "URL": "https://github.com/Kyrales/otus_JenkinsExample.git"
       }
->>>>>>> eb2734c (auth to ext)
     }
   ]
 }
