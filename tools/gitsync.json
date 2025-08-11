@@ -1,10 +1,10 @@
 {
-  "$schema": "https://raw.githubusercontent.com/Kyrales/vanessa-usher_mod/refs/heads/my_dev/resources/schema.json",
+  "$schema": "https://github.com/Shkuryn/otus_jenkins_test/blob/storage_1c/resourses/schema.json",
   "agent": "slave",
   "v8Version": "8.3.25.1394",
   "defaultInfobase": {
     "connectionString": "/FC:/1C/demo_clear",
-    "auth": ""
+    "auth": "admin1c"
   },
   "stages": {
     "gitsync": true
