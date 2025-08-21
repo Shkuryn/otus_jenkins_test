@@ -25,6 +25,10 @@
     {
       "name": "otus",
       "path": "C:/Storage1C/1C_Otus",
+      "git": {
+        "remote": "https://github.com/Shkuryn/otus_jenkins_test.git",
+        "branch": "storage_1c"  
+      },
       "dir": "./src/cf",
       "temp-dir": "",
       "v8version": "8.3.25.1394",
