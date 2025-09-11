@@ -1,7 +1,7 @@
 {
   "globals": {
-    "storage-user": "DeployGit",
-    "storage-pwd": "1234",
+    "storage-user": "developer",
+    "storage-pwd": "",
     "git-path": "git",
     "domain-email": "otus.ru",
     "lic-try-count": 5,
@@ -29,22 +29,11 @@
       "temp-dir": "",
       "v8version": "8.3.25.1394",
       "plugins-config": {
-        "storage": "C:/Storage1C/1C_Otus",
-        "storage-user": "DeployGit",
-        "storage-pwd": "1234",
+        "storage": "C:/Storage1C/demoup_developer",
+        "storage-user": "developer",
+        "storage-pwd": "",
         "URL": "https://github.com/Shkuryn/otus_jenkins_test.git"
       }
-    },
-    {
-      "name": "YAXUNIT",
-      "extention": "YAXUNIT",
-      "path": "C:/Storage1C/storage_yaxunit",
-      "dir": "./src/cfe/yaxunit",
-      "temp-dir": "",
-      "v8version": "8.3.25.1394",
-      "plugins-config": {
-        "URL": "https://github.com/Kyrales/otus_JenkinsExample.git"
-      }
-    }
+   }
   ]
 }
