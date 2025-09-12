@@ -1,6 +1,6 @@
 {
   "globals": {
-    "storage-user": "developer",
+    "storage-user": "develop",
     "storage-pwd": "",
     "git-path": "git",
     "domain-email": "otus.ru",
@@ -24,13 +24,13 @@
   "repositories": [
     {
       "name": "otus",
-      "path": "C:/Storage1C/1C_Otus",
+      "path": "C:/Storage1C/demoup_developer",
       "dir": "./src/cf",
       "temp-dir": "",
       "v8version": "8.3.25.1394",
       "plugins-config": {
         "storage": "C:/Storage1C/demoup_developer",
-        "storage-user": "developer",
+        "storage-user": "develop",
         "storage-pwd": "",
         "URL": "https://github.com/Shkuryn/otus_jenkins_test.git"
       }
