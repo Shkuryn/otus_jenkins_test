@@ -18,7 +18,7 @@
     "syntaxCheck": true,
     "edtValidate": false,
     "smoke": false,
-    "yaxunit": false,
+    "yaxunit": true,
     "email": true,
     "telegram": false
   },
@@ -97,7 +97,7 @@
   "yaxunit": {
     "vrunnerSettings": "./tools/vrunner.json",
     "configPath": "./tools/yaxunit_allure.json",
-    "publishToAllureReport": false,
+    "publishToAllureReport": true,
     "publishToJUnitReport": false,
     "coverage": false,
     "dbgsPort": 1550
