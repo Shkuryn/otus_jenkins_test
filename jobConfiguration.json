@@ -81,7 +81,7 @@
       "-ExternalConnection"
     ],
     "vrunnerSettings": "./tools/vrunner.json",
-    "publishToAllureReport": true,
+    "publishToAllureReport": false,
     "publishToJUnitReport": false
   },
   "smoke": {
@@ -97,7 +97,7 @@
   "yaxunit": {
     "vrunnerSettings": "./tools/vrunner.json",
     "configPath": "./tools/yaxunit_allure.json",
-    "publishToAllureReport": true,
+    "publishToAllureReport": false,
     "publishToJUnitReport": false,
     "coverage": false,
     "dbgsPort": 1550
